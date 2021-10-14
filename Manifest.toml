@@ -414,12 +414,6 @@ git-tree-sha1 = "e4cc551e4295a5c96545bb3083058c24b78d4cf0"
 uuid = "02fcd773-0e25-5acc-982a-7f6622650795"
 version = "0.8.13"
 
-[[ImageView]]
-deps = ["AxisArrays", "Cairo", "Graphics", "Gtk", "GtkReactive", "Images", "RoundingIntegers", "StatsBase"]
-git-tree-sha1 = "9425036a38890aa6eff9a7da1cad81d800abefa6"
-uuid = "86fae568-95e7-573e-a6b2-d8a6b900c9ef"
-version = "0.10.14"
-
 [[Images]]
 deps = ["AxisArrays", "Base64", "ColorVectorSpace", "FileIO", "Graphics", "ImageAxes", "ImageContrastAdjustment", "ImageCore", "ImageDistances", "ImageFiltering", "ImageIO", "ImageMagick", "ImageMetadata", "ImageMorphology", "ImageQualityIndexes", "ImageShow", "ImageTransformations", "IndirectArrays", "OffsetArrays", "Random", "Reexport", "SparseArrays", "StaticArrays", "Statistics", "StatsBase", "TiledIteration"]
 git-tree-sha1 = "8b714d5e11c91a0d945717430ec20f9251af4bd2"

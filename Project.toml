@@ -1,5 +1,4 @@
 [deps]
 Gtk = "4c0ca9eb-093a-5379-98c5-f87ac0bbbf44"
-ImageView = "86fae568-95e7-573e-a6b2-d8a6b900c9ef"
 PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
 Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
